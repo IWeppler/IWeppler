@@ -38,9 +38,9 @@
 ## 📈 GitHub Stats
 
 <!-- Para esto podés usar GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioweppler&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioweppler&layout=compact&theme=radical)
+![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IWeppler&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWeppler&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
-- [Nombre del Proyecto](https://github.com/ignacioweppler/PM4FE)
+- [Nombre del Proyecto](https://github.com/IWeppler/PM4FE)
