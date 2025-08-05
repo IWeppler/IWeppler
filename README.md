@@ -31,13 +31,12 @@
 
 - 📧 ignacioweppler@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ignacioweppler/)
-- 🌐 [Portfolio](https://tu-portfolio.com) <!-- Trabajando -->
+- 🌐 [Portfolio](https://ignacioweppler.vercel.app/)
 
 ---
 
 ## 📈 GitHub Stats
 
-<!-- Para esto podés usar GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IWeppler&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWeppler&layout=compact&theme=radical)
 
