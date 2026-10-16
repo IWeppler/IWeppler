@@ -31,7 +31,7 @@
 
 - 📧 ignacioweppler@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ignacioweppler/)
-- 🌐 [Portfolio](https://ignacioweppler.vercel.app/)
+- 🌐 [Portfolio](https://ignacioweppler.dev/)
 
 ---
 
