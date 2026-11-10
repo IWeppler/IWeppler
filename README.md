@@ -1,45 +1,79 @@
-# Hi, I'm Ignacio Weppler 👋
+# Hey, I'm Ignacio Weppler 👋
 
-## 💻 About Me
+**Full Stack Developer | SaaS Builder | TypeScript & Next.js**
 
-- 💼 Full **Stack Web Developer** passionate about building modern and efficient web applications.
-- 💬 Spanish & English speaker.
-- 🎯 Looking for my first professional experience in the IT sector.
-- 🚀 Always learning new technologies and improving my skills.
+I'm a Full Stack Developer from Argentina 🇦🇷, focused on building scalable web applications, SaaS products, and digital solutions for real businesses.
 
-## 🛠️ Tech Stack
+I enjoy turning complex problems into intuitive, reliable, and well-designed software — from the first idea to production.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/-TypeORM-F29111?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+Currently building **Comerz**, a SaaS platform that helps retail businesses manage sales, inventory, customers, and daily operations.
 
-## 📫 Contact
+### 🚀 What I'm working on
 
-- 📧 ignacioweppler@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ignacioweppler/)
-- 🌐 [Portfolio](https://ignacioweppler.dev/)
+- 🛒 **Comerz** — Building and growing a SaaS platform for retail management.
+- 🤖 **AI Integration** — Exploring LLMs, tool calling, and intelligent automation in real-world applications.
+- 🏗️ **Full Stack Development** — Building production-ready applications with modern technologies.
+- 🌎 **Open to Opportunities** — Interested in remote Full Stack and Frontend Developer roles.
 
----
+### 🛠️ Tech Stack
 
-## 📈 GitHub Stats
+**Frontend**
 
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IWeppler&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWeppler&layout=compact&theme=radical)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-## 🚀 Projects
 
-- [Ecommerce Apple](https://github.com/IWeppler/PM4FE)
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 💼 Featured Projects
+
+**[Comerz](https://comerz.app)** — Retail Management SaaS
+
+A cloud-based platform for managing sales, inventory, customers, payments, and business operations.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `AI`
+
+**[TerraNova](https://inmobiliaria-pi.vercel.app/)** — Real Estate Platform
+
+A real estate solution combining property listings, lead management, CRM functionality, and AI-powered content generation.
+
+`Next.js` `React` `Supabase` `Gemini AI`
+
+**[CheCancha](https://checancha.vercel.app/)** — Sports Booking Platform
+
+A multi-venue sports reservation platform featuring booking management, role-based dashboards, and payment integrations.
+
+`Next.js` `Prisma` `PostgreSQL` `Mercado Pago`
+
+
+### 📊 GitHub Activity
+
+![Ignacio's GitHub Stats](https://github-stats-extended.vercel.app/api?username=IWeppler&show_icons=true&theme=transparent&hide_border=true)
+
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IWeppler&layout=compact&theme=transparent&hide_border=true)
+
+
+### 🤝 Let's Connect
+
+I'm always open to discussing interesting projects, technical challenges, and new opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ignacioweppler.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacioweppler/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignacioweppler@gmail.com)
